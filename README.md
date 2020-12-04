@@ -30,6 +30,8 @@ Welcome to my profile! This is where I store some of my open source projects.
 ## Extras:
 [![Discord Bots](https://top.gg/api/widget/713967836531392632.svg)](https://top.gg/bot/713967836531392632)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taromaruu&theme=dark&count_private=true&show_icons=true)
+
 <!--
 **Taromaruu/Taromaruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
