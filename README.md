@@ -1,35 +1,36 @@
 ![Taromaru waving](https://raw.githubusercontent.com/Taromaruu/Taromaruu/main/taro_hi.gif)
 
-Welcome to my profile! This is where I store some of my open source projects.
+Welcome to my profile! This is where I store some of my open source projects!
 
 ## Info
 
 > I'm currently working on:
 >
-> * Taromaru (discord bot)
-> * Doggoscript
-> * a DDLC mod! (with some amazing people)
+> * Taromaru (Discord Bot)
+> * DogOS
+> * a DDLC mod with some amazing people!
+> * A API
+> * Python packages
 
-> I'm currently learning:
 >
-> * C#
-> * C++
-> * Javascript
->
-> and know:
+> I currently can code in:
 > * Python
 > * Renpy
 > * GML
+> * C#
+> * C++
+> * Javascript
+> * Ruby
+> * PHP
+> * Java
 
-> My links:
+> My links: (will be linking soon)
 >
 > * Discord: Doggo#4340
 > * Twitter: TaromaruYuki
 > * Reddit: DoggoYT0
 
 ## Extras:
-[![Discord Bots](https://top.gg/api/widget/713967836531392632.svg)](https://top.gg/bot/713967836531392632)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taromaruu&theme=dark&count_private=true&show_icons=true)
 
 <!--
