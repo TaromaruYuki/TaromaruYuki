@@ -45,41 +45,40 @@
 
 ### Settings
 
-:x: Profile settings
+:heavy_minus_sign: Profile settings
 
-- Change Username
-- Change Avatar
-- Change Email
-- Connect Accounts
-- Bio
-- Website
-- Location
-- Accent Color
+- :heavy_check_mark: Change Username
+- :heavy_check_mark: Change Avatar
+- :x: Change Email
+- :x: Connect Accounts
+- :x: Bio
+- :x: Website
+- :x: Location
+- :x: Accent Color
 
 :x: Account settings
 
-- Download data
-- Delete account
+- :x: Download data
+- :x: Delete account
 
 :x: Appearance
 
-- Theme
-  - Light
-  - Dark
-  - Gray
-- Default emoji skin tone
+- :x: Theme
+  - :x: Light
+  - :x: Dark
+  - :x: Gray
+- :x: Default emoji skin tone
 
 :x: Privacy Settings
 
-- Turn off friend requests
-- Turn off
+- :x: Turn off friend requests
 
 :x: Security
 
-- Change Password
-- 2FA
+- :x: Change Password
+- :x: 2FA
 
 :x: Notifications
 
-- Toggle push notifications
-- Mute Chats
+- :x: Toggle push notifications
+- :x: Mute Chats
