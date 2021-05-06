@@ -8,6 +8,7 @@ Welcome to my profile! This is where I store some of my open source projects!
 >
 > * Taromaru (Discord Bot)
 > * DogOS
+> * Doggochat
 > * a DDLC mod with some amazing people!
 > * A API
 > * Python packages
