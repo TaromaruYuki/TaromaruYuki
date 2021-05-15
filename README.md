@@ -15,8 +15,7 @@ Welcome to my profile! This is where I store some of my open source projects!
 
 >
 > I currently can code in:
-> * Python
-> * Renpy
+> * Python / Renpy
 > * GML
 > * C#
 > * C++
@@ -25,11 +24,16 @@ Welcome to my profile! This is where I store some of my open source projects!
 > * PHP
 > * Java
 
-> My links: (will be linking soon)
+> Social Media <3
 >
-> * Discord: Doggo#4340
-> * Twitter: TaromaruYuki
-> * Reddit: DoggoYT0
+> * [My Discord Server](https://discord.gg/qFtz2gS)
+> * [Discord](https://dsc.bio/taromaru)
+> * [Twitter](https://twitter.com/TaromaruYuki)
+> * [Reddit](https://www.reddit.com/u/DoggoYT0)
+> * [Spotify](https://open.spotify.com/user/a2n9yranjkm3e8zxjgxl073xk)
+> * [Steam](https://steamcommunity.com/id/taromaruyuki/)
+> * [Twitch](https://www.twitch.tv/taromaruyuki)
+> * [Patreon](https://www.patreon.com/taromaru)
 
 ## Extras:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taromaruu&theme=dark&count_private=true&show_icons=true)
