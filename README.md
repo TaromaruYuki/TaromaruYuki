@@ -1,8 +1,16 @@
-![Taromaru waving](https://raw.githubusercontent.com/Taromaruu/Taromaruu/main/taro_hi.gif)
 
-Welcome to my profile! This is where I store some of my open source projects!
+<p align="center" width="100%">
+    <img src="https://raw.githubusercontent.com/Taromaruu/Taromaruu/main/taro_hi.gif">
+    <h1 align="center">Welcome!</h1>
+</p>
 
-## Info
+Welcome to my GitHub profile! This is where I will be posting my open source projects!
+
+<p align="center" width="100%">
+    <br><br>
+    <img width="10%" src="https://raw.githubusercontent.com/Taromaruu/Taromaruu/main/shovel-kun.png">
+    <h2 align="center">Info</h2>
+</p>
 
 > I'm currently working on:
 >
@@ -35,8 +43,16 @@ Welcome to my profile! This is where I store some of my open source projects!
 > * [Twitch](https://www.twitch.tv/taromaruyuki)
 > * [Patreon](https://www.patreon.com/taromaru)
 
-## Extras:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taromaruu&theme=dark&count_private=true&show_icons=true)
+<p align="center" width="100%">
+    <br><br>
+    <img width="10%" src="https://raw.githubusercontent.com/Taromaruu/Taromaruu/main/shovel-kun.png">
+    <h2 align="center">Extras</h2>
+</p>
+
+<p align="center" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Taromaruu&theme=dark&count_private=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taromaruu&theme=dark&count_private=true&show_icons=true" />
+</p>
 
 <!--
 **Taromaruu/Taromaruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,4 +67,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+<p align="center" width="100%">
+    <img width="10%" src="https://raw.githubusercontent.com/Taromaruu/Taromaruu/main/shovel-kun.png">
+</p>
 -->
