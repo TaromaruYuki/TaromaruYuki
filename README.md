@@ -41,7 +41,6 @@ Welcome to my GitHub profile! This is where I will be posting my open source pro
 > * [Spotify](https://open.spotify.com/user/a2n9yranjkm3e8zxjgxl073xk)
 > * [Steam](https://steamcommunity.com/id/taromaruyuki/)
 > * [Twitch](https://www.twitch.tv/taromaruyuki)
-> * [Patreon](https://www.patreon.com/taromaru)
 
 <p align="center" width="100%">
     <br><br>
