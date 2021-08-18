@@ -2,6 +2,13 @@
 
 Welcome to my profile! This is where I store some of my open source projects!
 
+## Donations
+You will be able to donate to me personally through Ko-Fi! Donating will help me personally and will help!
+
+Ko-Fi currently isn't setup, please check later!
+
+<!-- <a href='https://ko-fi.com/X8X55U08V' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
+
 ## Info
 
 > I'm currently working on:
