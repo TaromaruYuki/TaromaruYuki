@@ -1,6 +1,6 @@
 
 <p align="center" width="100%">
-    <img src="https://raw.githubusercontent.com/Taromaruu/Taromaruu/main/taro_hi.gif">
+    <img src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/taro_hi.gif">
     <h1 align="center">Welcome!</h1>
 </p>
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! This is where I will be posting my open source pro
 
 <p align="center" width="100%">
     <br><br>
-    <img width="10%" src="https://raw.githubusercontent.com/Taromaruu/Taromaruu/main/shovel-kun.png">
+    <img width="10%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/shovel-kun.png">
     <h2 align="center">Info</h2>
 </p>
 
@@ -44,13 +44,13 @@ Welcome to my GitHub profile! This is where I will be posting my open source pro
 
 <p align="center" width="100%">
     <br><br>
-    <img width="10%" src="https://raw.githubusercontent.com/Taromaruu/Taromaruu/main/shovel-kun.png">
+    <img width="10%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/shovel-kun.png">
     <h2 align="center">Extras</h2>
 </p>
 
 <p align="center" width="100%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Taromaruu&theme=dark&count_private=true&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taromaruu&theme=dark&count_private=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TaromaruYuki&theme=dark&count_private=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaromaruYuki&theme=dark&count_private=true&show_icons=true" />
 </p>
 
 <!--
