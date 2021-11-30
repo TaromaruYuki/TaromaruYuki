@@ -14,12 +14,8 @@ Welcome to my GitHub profile! This is where I will be posting my open source pro
 
 > I'm currently working on:
 >
-> * Taromaru (Discord Bot)
-> * DogOS
-> * Doggochat
-> * a DDLC mod with some amazing people!
-> * A API
-> * Python packages
+> * [DogOS](https://github.com/DogOSdev)
+> * DogStream
 
 >
 > I currently can code in:
