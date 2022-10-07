@@ -50,6 +50,10 @@ Welcome to my GitHub profile! This is where I will be posting my open source pro
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaromaruYuki&theme=dark&count_private=true&show_icons=true" />
 </p>
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **Taromaruu/Taromaruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
