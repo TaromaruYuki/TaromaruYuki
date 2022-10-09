@@ -52,6 +52,14 @@ Welcome to my GitHub profile! This is where I will be posting my open source pro
 
 
 <!--START_SECTION:waka-->
+
+```text
+PHP          28 mins         ███████████████████▒░░░░░   77.86 %
+Twig         7 mins          █████░░░░░░░░░░░░░░░░░░░░   19.98 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
