@@ -50,6 +50,11 @@ Welcome to my GitHub profile! This is where I will be posting my open source pro
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaromaruYuki&theme=dark&count_private=true&show_icons=true" />
 </p>
 
+<p align="center">
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=a2n9yranjkm3e8zxjgxl073xk&redirect=true">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=a2n9yranjkm3e8zxjgxl073xk&cover_image=true&theme=default&show_offline=true" />
+    </a>
+</p>
 
 <!--START_SECTION:waka-->
 
