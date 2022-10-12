@@ -1,4 +1,6 @@
-
+<p align="center">
+    <img src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/github-header.png" />
+</p>
 <p align="center" width="100%">
     <img src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/taro_hi.gif">
     <h1 align="center">Welcome!</h1>
