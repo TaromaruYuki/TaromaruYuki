@@ -46,8 +46,8 @@ Welcome to my GitHub profile! This is where I will be posting my open source pro
 </p>
 
 <p align="center" width="100%">
-    <img src="https://github-readme-stats.vercel.app/api?username=TaromaruYuki&theme=dark&count_private=true&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaromaruYuki&theme=dark&count_private=true&show_icons=true" />
+    <img src="https://raw.githubusercontent.com/TaromaruYuki/github-stats-transparent/59d0c0c17b38a286397f88f1c5c6457e2dc30c7c/generated/overview.svg" />
+    <img src="https://raw.githubusercontent.com/TaromaruYuki/github-stats-transparent/59d0c0c17b38a286397f88f1c5c6457e2dc30c7c/generated/languages.svg" />
 </p>
 
 <p align="center">
