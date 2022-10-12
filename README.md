@@ -1,10 +1,6 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/github-header.png" />
 </p>
-<p align="center" width="100%">
-    <img src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/taro_hi.gif">
-    <h1 align="center">Welcome!</h1>
-</p>
 
 Welcome to my GitHub profile! This is where I will be posting my open source projects!
 
