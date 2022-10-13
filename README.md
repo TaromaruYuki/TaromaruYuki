@@ -30,6 +30,19 @@
 </p>
 
 <h2 align="center">Stats</h2>
+
+<h3 align="center">Waka</h3>
+<!--START_SECTION:waka-->
+
+```text
+PHP          28 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀   77.86 %
+Twig         7 mins          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.98 %
+JavaScript   0 secs          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.59 %
+CSS          0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.57 %
+```
+
+<!--END_SECTION:waka-->
+
 <p align="center" width="100%">
     <img src="https://raw.githubusercontent.com/TaromaruYuki/github-stats-transparent/59d0c0c17b38a286397f88f1c5c6457e2dc30c7c/generated/overview.svg" />
     <img src="https://raw.githubusercontent.com/TaromaruYuki/github-stats-transparent/59d0c0c17b38a286397f88f1c5c6457e2dc30c7c/generated/languages.svg" />
@@ -43,20 +56,11 @@
     <img width="10%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/shovel-kun.png">
 </p>
 
-<h2>Fun stuff!</h2>
+<h2 align="center">Fun stuff!</h2>
 
-
-<h3>Waka Stats</h3>
-<!--START_SECTION:waka-->
-
-```text
-PHP          28 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀   77.86 %
-Twig         7 mins          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.98 %
-JavaScript   0 secs          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.59 %
-CSS          0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.57 %
-```
-
-<!--END_SECTION:waka-->
+<p align="center">
+    <img src="https://github-readme-twitter.gazf.vercel.app/api?id=TaromaruYuki" />
+</p>
 
 <h3 align="center">Spotify Stats</h3>
 
