@@ -23,7 +23,7 @@
 
 <br><br>
 
-<img align="left" width="28%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/taro_pant.gif" />
+<img align="left" width="25%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/taro_pant.gif" />
 
 <p width="100%" align='center'>
     <img width="10%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/shovel-kun.png">
