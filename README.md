@@ -15,15 +15,9 @@
 <h3>I want to learn</h3>
 <img src="https://skillicons.dev/icons?i=ruby,rust,deno,java" />
 
-> Social Media <3
->
-> * [My Discord Server](https://discord.gg/qFtz2gS)
-> * [Discord](https://dsc.bio/taromaru)
-> * [Twitter](https://twitter.com/TaromaruYuki)
-> * [Reddit](https://www.reddit.com/u/DoggoYT0)
-> * [Spotify](https://open.spotify.com/user/a2n9yranjkm3e8zxjgxl073xk)
-> * [Steam](https://steamcommunity.com/id/taromaruyuki/)
-> * [Twitch](https://www.twitch.tv/taromaruyuki)
+<h3>Social media <3</h3>
+<a href="https://discord.gg/qFtz2gS"><img src="https://skillicons.dev/icons?i=discord" /></a>
+<a href="https://twitter.com/TaromaruYuki"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 
 <p align="center" width="100%">
     <br><br>
