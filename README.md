@@ -9,9 +9,6 @@
     <img width="10%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/shovel-kun.png">
 </p>
 
-- I am currently working on...
-    - My website
-
 <h3>Skillset</h3>
 <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,nodejs,react,php,html,symfony,godot,cmake,bootstrap,blender,mysql&perline=7" />
 
