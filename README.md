@@ -2,30 +2,21 @@
     <img src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/github-header.png" />
 </p>
 
-Welcome to my GitHub profile! This is where I will be posting my open source projects!
+<h3 align="center">Welcome to my GitHub profile! This is where I will be posting my open source projects!</h3><br>
+<img align="right" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/taro_hi.gif" />
 
-<p align="center" width="100%">
-    <br><br>
+<p width="100%" align='center'>
     <img width="10%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/shovel-kun.png">
-    <h2 align="center">Info</h2>
 </p>
 
-> I'm currently working on:
->
-> * [DogOS](https://github.com/DogOSdev)
-> * DogStream
-> * [Doggoscript}(https://github.com/TaromaruYuki/Doggoscript
+- I am currently working on...
+    - My website
 
->
-> I currently can code in:
-> * Python / Renpy
-> * GML
-> * C#
-> * C++
-> * Javascript
-> * Ruby
-> * PHP
-> * Java
+<h3>Skillset</h3>
+<img src="https://skillicons.dev/icons?i=py,cpp,cs,js,nodejs,react,php,html,symfony,godot,cmake,bootstrap,blender,mysql&perline=7" />
+
+<h3>I want to learn</h3>
+<img src="https://skillicons.dev/icons?i=ruby,rust,deno,java" />
 
 > Social Media <3
 >
