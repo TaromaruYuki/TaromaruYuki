@@ -2,7 +2,9 @@
     <img src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/github-header.png" />
 </p>
 
-<h3 align="center">Welcome to my GitHub profile! This is where I will be posting my open source projects!</h3><br>
+<h3 align="center">Welcome to my GitHub profile! This is where I will be posting my open source projects!</h3>
+<p align="center"><i>“If you bottle up your sadness too much, you'll forget what's really important.” — Yuki Takeya</i></p><br>
+
 <img align="right" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/taro_hi.gif" />
 
 <p width="100%" align='center'>
@@ -19,23 +21,32 @@
 <a href="https://discord.gg/qFtz2gS"><img src="https://skillicons.dev/icons?i=discord" /></a>
 <a href="https://twitter.com/TaromaruYuki"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 
-<p align="center" width="100%">
-    <br><br>
+<br><br>
+
+<img align="left" width="28%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/taro_pant.gif" />
+
+<p width="100%" align='center'>
     <img width="10%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/shovel-kun.png">
-    <h2 align="center">Extras</h2>
 </p>
 
+<h2 align="center">Stats</h2>
 <p align="center" width="100%">
     <img src="https://raw.githubusercontent.com/TaromaruYuki/github-stats-transparent/59d0c0c17b38a286397f88f1c5c6457e2dc30c7c/generated/overview.svg" />
     <img src="https://raw.githubusercontent.com/TaromaruYuki/github-stats-transparent/59d0c0c17b38a286397f88f1c5c6457e2dc30c7c/generated/languages.svg" />
 </p>
 
-<p align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=a2n9yranjkm3e8zxjgxl073xk&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=a2n9yranjkm3e8zxjgxl073xk&cover_image=true&theme=default&show_offline=true" />
-    </a>
+<br><br>
+
+<img align="right" width="28%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/taro_spin.gif" />
+
+<p width="100%" align='center'>
+    <img width="10%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/shovel-kun.png">
 </p>
 
+<h2>Fun stuff!</h2>
+
+
+<h3>Waka Stats</h3>
 <!--START_SECTION:waka-->
 
 ```text
@@ -46,6 +57,14 @@ CSS          0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+
+<h3 align="center">Spotify Stats</h3>
+
+<p align="center">
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=a2n9yranjkm3e8zxjgxl073xk&redirect=true">
+        <img src="https://www.data-card-for-spotify.com/api/card?user_id=a2n9yranjkm3e8zxjgxl073xk" alt="Data Card for Spotify">
+    </a>
+</p>
 
 <!--
 **Taromaruu/Taromaruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
