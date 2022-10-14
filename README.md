@@ -5,7 +5,7 @@
 <h3 align="center">Welcome to my GitHub profile! This is where I will be posting my open source projects!</h3>
 <p align="center"><i>“If you bottle up your sadness too much, you'll forget what's really important.” — Yuki Takeya</i></p><br>
 
-<img align="right" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/taro_hi.gif" />
+<img align="right" width="25%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/taro_hi.gif" />
 
 <p width="100%" align='center'>
     <img width="10%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/shovel-kun.png">
