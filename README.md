@@ -14,8 +14,11 @@
 <h3>Skillset</h3>
 <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,nodejs,react,php,html,symfony,godot,cmake,bootstrap,blender,mysql&perline=7" />
 
+<h3>Currently learning...</h3>
+<img src="https://skillicons.dev/icons?i=rust" />
+
 <h3>I want to learn</h3>
-<img src="https://skillicons.dev/icons?i=ruby,rust,deno,java" />
+<img src="https://skillicons.dev/icons?i=ruby,deno,java" />
 
 <h3>Social media <3</h3>
 <a href="https://discord.gg/qFtz2gS"><img src="https://skillicons.dev/icons?i=discord" /></a>
