@@ -21,8 +21,9 @@
 <img src="https://skillicons.dev/icons?i=ruby,deno,java" />
 
 <h3>Social media <3</h3>
-<a href="https://discord.gg/qFtz2gS"><img src="https://skillicons.dev/icons?i=discord" /></a>
 <a href="https://twitter.com/TaromaruYuki"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+    
+<a href="https://discord.com/users/323470201016549378"><img src="https://lanyard.ushiekane.dev/api/323470201016549378" alt="Discord Presence"/></a>
 
 <br><br>
 
