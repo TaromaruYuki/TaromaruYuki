@@ -12,10 +12,11 @@
 </p>
 
 <h3>Skillset</h3>
-<img src="https://skillicons.dev/icons?i=py,cpp,cs,js,nodejs,react,php,html,symfony,godot,cmake,bootstrap,blender,mysql&perline=7" />
+<img src="https://skillicons.dev/icons?i=py,cpp,cs,js,nodejs,react,php,html,symfony,godot,cmake,bootstrap,blender,mysql,rust&perline=7" />
 
 <h3>Currently learning...</h3>
-<img src="https://skillicons.dev/icons?i=rust" />
+<!-- <img src="https://skillicons.dev/icons?i=" /> -->
+Nothing!
 
 <h3>I want to learn</h3>
 <img src="https://skillicons.dev/icons?i=ruby,deno,java" />
