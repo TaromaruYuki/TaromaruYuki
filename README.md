@@ -19,7 +19,7 @@
 Nothing!
 
 <h3>I want to learn</h3>
-<img src="https://skillicons.dev/icons?i=ruby,deno,java" />
+<img src="https://skillicons.dev/icons?i=ruby,deno,java,haskell,wasm" />
 
 <h3>Social media <3</h3>
 <a href="https://twitter.com/TaromaruYuki"><img src="https://skillicons.dev/icons?i=twitter" /></a>
