@@ -84,8 +84,15 @@
 }
 
 /* catppuccin icon */
-.childWrapper__01b9c:has(> svg:not(.favoriteIcon_adf80e)) {
+/*.childWrapper__01b9c:has(> svg:not(.favoriteIcon_adf80e)) {
 	background: url('https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png');
+	background-color: transparent !important;
+	background-size: cover;
+}*/
+
+/* Cherry Blossom icon */
+.childWrapper__01b9c:has(> svg:not(.favoriteIcon_adf80e)) {
+	background: url('https://discord.com/assets/89c85520362bae970806619f146a3ef9.webp');
 	background-color: transparent !important;
 	background-size: cover;
 }
