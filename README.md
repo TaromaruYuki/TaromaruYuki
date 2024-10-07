@@ -59,7 +59,7 @@ PHP                 39 hrs 13 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <br><br>
 
-<img align="right" width="28%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/taro_spin.gif" />
+<!--<img align="right" width="28%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/taro_spin.gif" />
 
 <p width="100%" align='center'>
     <img width="10%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/shovel-kun.png">
@@ -77,7 +77,7 @@ PHP                 39 hrs 13 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=a2n9yranjkm3e8zxjgxl073xk&redirect=true">
         <img src="https://www.data-card-for-spotify.com/api/card?user_id=a2n9yranjkm3e8zxjgxl073xk" alt="Data Card for Spotify">
     </a>
-</p>
+</p> -->
 
 <!--
 **Taromaruu/Taromaruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
