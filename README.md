@@ -4,6 +4,9 @@
 
 <h3 align="center">Welcome to my GitHub profile! This is where I will be posting my open source projects!</h3>
 <p align="center"><i>“If you bottle up your sadness too much, you'll forget what's really important.” — Yuki Takeya</i></p><br>
+    
+> [!NOTE]
+> I will be slowly moving to my [git instance](https://git.taromaruyuki.cc/). Some newer code is already posted there.
 
 <img align="right" width="25%" src="https://raw.githubusercontent.com/TaromaruYuki/TaromaruYuki/main/taro_hi.gif" />
 
